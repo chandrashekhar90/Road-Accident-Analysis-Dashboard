@@ -19,7 +19,7 @@ Interactive Features:
 Tools Used:
 - Pivot Tables
 - Charts
-- KPI Cards
+- KPI Cards and links
 
 Note:
 Sample dataset is uploaded due to large file size.
